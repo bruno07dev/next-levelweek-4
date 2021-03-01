@@ -4,7 +4,7 @@ A 🥇reward for a 🎯challenge
 
 ## About the project 📝:
 
-ChronoHealth is an application based on the technique of ⏱pomodoro, where every 25 minutes of work or study, you must perform a challenge proposed by the application, 🚶‍♂️exercising your body, your 👀 eyes and raising your level✨🏆
+ChronoHealth is an application based on the technique of pomodoro, where every 25 minutes of work or study, you must perform a challenge proposed by the application, ♂️exercising your body, your 👀 eyes and raising your level✨🏆
 
 ### Technologies 🛠 ✒:
 Technologies used to develop this Aplication
